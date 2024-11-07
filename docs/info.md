@@ -9,11 +9,11 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+Buffer Delay Line TDC
 
 ## How to test
 
-Explain how to use your project
+Check Q(0-7)
 
 ## External hardware
 
